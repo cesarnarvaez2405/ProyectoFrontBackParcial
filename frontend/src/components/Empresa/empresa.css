@@ -1,0 +1,46 @@
+#empresa{
+    margin-top: 50px;
+}
+#divTabla{
+ width: fit-content;
+ margin: 0 auto;
+}
+
+#formulario{
+    width: fit-content;
+    margin: 0 auto;
+ 
+}   
+
+
+#divBoton{
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 40px;
+}   
+
+#datos_formulario{
+    width: fit-content;
+    margin: 0 auto;
+ width: 500px;
+ display: grid;
+ grid-template-columns:  50% 50%;
+ grid-template-rows: 50px 50px 50px 50px;
+ gap: 15px
+}   
+#datos_divinfomacion{
+  display: flex;
+}   
+#idLabel{
+  margin-right: 20px;
+}   
+
+#titulo{
+    width:fit-content;
+    margin: 0 auto;
+    margin-top: 50px;
+    width: auto;   
+    justify-content: end;
+}
+
+
